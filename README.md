@@ -25,10 +25,16 @@
 <h2>Languages and Tools</h2> 
 <p align="left">
 <img width="280px"  src="https://skillicons.dev/icons?i=English, spanish, python, solidity, cibersecurity&perline=9"  />
-</p>                    
-<a href="https://github.com/Arkanoeth#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkanoeth&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="Arkanoeth" /></a>
+</p>
+<br />
+
+                    
+
+<p><a href="https://github.com/Arkanoeth#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkanoeth&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="Arkanoeth" /></a>
   <a href="https://github.com/Arkanoeth#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkanoeth&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="Arkanoeth" /></a>
 </p>
+
+<br />
 
 <p>&nbsp;<a href="https://github.com/Arkanoeth#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Arkanoeth&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="Arkanoeth" /></a>
 <a href="https://github.com/Arkanoeth#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Arkanoeth&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="Arkanoeth" /></a>
@@ -44,7 +50,6 @@
 <p><a href="https://github.com/Arkanoeth#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Arkanoeth&theme=nightowl#gh-dark-mode-only" alt="Arkanoeth" /></a>
 <a href="https://github.com/Arkanoeth#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Arkanoeth&theme=vue#gh-light-mode-only" alt="Arkanoeth" /></a></p>
 <br/>
-
 ---
                  
 
