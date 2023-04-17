@@ -59,4 +59,4 @@
 
 <h2>Connect with ArkanzasTrade</h2> 
 <p align="left">
-<a href="https://beacons.ai/arkanzastrade" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://cdn.beacons.ai/user_content/tH5XY6Ig53herXt0jGjqLeZ3Wya2/profile_arkanzastrade.png?t=1660632663403" alt="ArkanzasTrade" /></a>
+<a href="https://beacons.ai/arkanzastrade" target="_blank"><img align="left" width="30px" style="padding-right:30px;" src="https://cdn.beacons.ai/user_content/tH5XY6Ig53herXt0jGjqLeZ3Wya2/profile_arkanzastrade.png?t=1660632663403" alt="ArkanzasTrade" /></a>
