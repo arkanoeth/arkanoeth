@@ -26,7 +26,6 @@
 <p align="left">
 <img width="280px"  src="https://skillicons.dev/icons?i=English, spanish, python, solidity, cibersecurity&perline=9"  />
 </p>
-<br />
 
                     
 <p><a href="https://github.com/Arkanoeth#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkanoeth&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="Arkanoeth" /></a>
