@@ -53,7 +53,10 @@
 <a href="https://instagram.com/Arkano.eth" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Arkano.eth" /></a>
 <a href="https://www.linkedin.com/in/matiasnferrer" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </p>
+<br/>
+---
+
 
 <h2>Connect with ArkanzasTrade</h2> 
 <p align="left">
-<a href="https://beacons.ai/arkanzastrade" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/beacons.svg" alt="ArkanzasTrade" /></a>
+<a href="https://beacons.ai/arkanzastrade" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://cdn.beacons.ai/user_content/tH5XY6Ig53herXt0jGjqLeZ3Wya2/profile_arkanzastrade.png?t=1660632663403" alt="ArkanzasTrade" /></a>
