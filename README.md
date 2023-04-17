@@ -4,7 +4,7 @@
 ![github slide](https://user-images.githubusercontent.com/62271657/232490813-9677e87f-1170-4b28-b8cd-0c2c28a39384.jpg)
 
 
-<p align="left">I am CEO and Co-Founder of ArkanzasTrade a Startup about crypto education. I´m focused on Cybersecurity, Crypto, currently develop software solutions using python and solidity mainly.
+<p align="left">I am CEO and Co-Founder of ArkanzasTrade a startup about Crypto education. I´m focused on Crypto, Cybersecurity, currently develop software solutions using python and solidity mainly.
 </p>
 <p align="left"> 
   <a href="https://github.com/Arkanoeth?tab=repositories&sort=stargazers#gh-light-mode-only">
