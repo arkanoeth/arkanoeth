@@ -23,8 +23,10 @@
 ---
                    
 <h2>Languages and Tools</h2> 
-<p align="left">
-<img width="280px"  src="[https://skillicons.dev/icons?i=python, js, Solidity, RestAPI, R, MatLab,&perline=9](https://skillicons.dev/icons?i=python,js,solidity,sqlite,docker,r,matlab,ts,&perline=9)"  />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,solidity,sqlite,docker,r,matlab,ts,&perline=9" />
+  </a>
 </p>
 
 <br />
