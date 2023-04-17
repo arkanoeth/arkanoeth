@@ -1,11 +1,8 @@
 <h1>🦾 Matías Ferrer </h1>
-<br /> 
-
-                    
+<br />                    
 `**Developer / Programmer**`
-![1667798826401](https://user-images.githubusercontent.com/62271657/232489730-caa2bcc6-7e12-404c-9f7d-80eed2c9e306.jpeg)
+![github slide](https://user-images.githubusercontent.com/62271657/232490813-9677e87f-1170-4b28-b8cd-0c2c28a39384.jpg)
 
-                    
 
 <p align="left">I am CEO and Co-Founder of ArkanzasTrade a Startup about crypto education. I´m focused on Cybersecurity, Crypto, currently develop software solutions using python and solidity mainly.
 </p>
@@ -21,7 +18,6 @@
     
   <a href="https://github.com/Arkanoeth?tab=followers#gh-dark-mode-only">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Arkanoeth?color=dacc84&labelColor=f9e692&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-dark-mode-only"/></a>
-</p>
 
 ---
                    
