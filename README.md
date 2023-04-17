@@ -30,8 +30,6 @@
   <a href="https://github.com/Arkanoeth#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkanoeth&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="Arkanoeth" /></a>
 </p>
 
-<br />
-
 <p>&nbsp;<a href="https://github.com/Arkanoeth#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Arkanoeth&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="Arkanoeth" /></a>
 <a href="https://github.com/Arkanoeth#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Arkanoeth&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="Arkanoeth" /></a>
 </p> 
