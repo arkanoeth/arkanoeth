@@ -3,10 +3,11 @@
 
                     
 `**Developer / Programmer**`
+![1667798826401](https://user-images.githubusercontent.com/62271657/232489730-caa2bcc6-7e12-404c-9f7d-80eed2c9e306.jpeg)
 
                     
 
-<p align="left">I am a 25-year-old who takes pride in getting things done. If you have a project that needs to be completed by a certain deadline and with great attention to detail, I am the person you can count on.
+<p align="left">I am CEO and Co-Founder of ArkanzasTrade a Startup about crypto education. I´m focused on Cybersecurity, Crypto, currently develop software solutions using python and solidity mainly.
 </p>
 <p align="left"> 
   <a href="https://github.com/Arkanoeth?tab=repositories&sort=stargazers#gh-light-mode-only">
