@@ -24,7 +24,7 @@
                    
 <h2>Languages and Tools</h2> 
 <p align="left">
-<img width="280px"  src="https://skillicons.dev/icons?i=English, spanish, python, solidity, cibersecurity&perline=9"  />
+<img width="280px"  src="https://skillicons.dev/icons?i=python, js, Solidity, RestAPI, R, MatLab,&perline=9"  />
 </p>
 
 <br />
