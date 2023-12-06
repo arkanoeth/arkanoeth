@@ -41,9 +41,7 @@
 <br/>
 <br />
 
-<p><a href="https://github.com/Arkanoeth#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Arkanoeth&theme=nightowl#gh-dark-mode-only" alt="Arkanoeth" /></a>
-<a href="https://github.com/Arkanoeth#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Arkanoeth&theme=vue#gh-light-mode-only" alt="Arkanoeth" /></a></p>
-<br/>
+
 
 ---
                  
