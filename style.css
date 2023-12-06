@@ -1,0 +1,110 @@
+#head {
+    background:
+        radial-gradient(circle at bottom, #30AAED, transparent 75%),
+        linear-gradient(130deg, #368fEF 50%, transparent 50%),
+        radial-gradient(circle at top, #368fEF, transparent 50%),
+        linear-gradient(130deg, transparent 50%, #30AAED 50%);
+}
+
+.circular-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    overflow: hidden;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.circular-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.code {
+    color: #FFFFFF;
+    font-family: 'Courier New', monospace;
+    font-size: 24px;
+}
+
+.punctuation {
+    color: #0276FD;
+    font-weight: bold;
+}
+
+.tags {
+    color: #df3079;
+    font-weight: bold;
+}
+
+.keyword {
+    color: #df3079;
+    font-weight: bold;
+}
+
+.code h1 {
+    display: block;
+    white-space: nowrap;
+    border-right: 4px solid;
+    width: 14ch;
+
+    animation: typing 2s steps(14), blink .5s infinite step-end alternate;
+    overflow: hidden;
+}
+
+@keyframes typing {
+    from {
+        width: 0
+    }
+}
+
+@keyframes blink {
+    50% {
+        border-color: transparent;
+    }
+}
+
+.typed-text {
+    display: inline-block;
+    opacity: 0;
+    transform: translateX(-100%);
+    animation: enter 2s forwards;
+}
+
+@keyframes enter {
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+.technologies {
+    color: #FFFFFF;
+    font-size: 36px;
+    transform: translateX(100%);
+    animation: enter 2s forwards;
+}
+
+.technologies img {
+    max-height: 36px;
+    margin-bottom: 5px;
+    margin-left: 15px;
+}
+
+.custom-divider {
+    text-align: center;
+}
+
+.divider-line {
+    width: 40%;
+    height: 1px;
+    background-color: #FFFFFF;
+    margin: 25px auto;
+}
+
+small img {
+    max-height: 29px;
+}
