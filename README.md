@@ -8,7 +8,9 @@ As the CEO and co-founder of ArkanzasTrade, a startup focused on cryptocurrency 
  
 My goal is to make the web3 space safer, using my knowledge and experience for the benefit of all its users. 
 
-I have a strong background in software development, with expertise in Solidity, Python, and Rust, enabling me to innovate and contribute to progress in the dynamic world of digital currencies. Above all, I have a profound passion for continuing to learn and grow every day.
+I have a strong background in software development, with expertise in Solidity, Python, and Rust, enabling me to innovate and contribute to progress in the dynamic world of digital currencies. 
+
+Above all, I have a profound passion for continuing to learn and grow every day.
 </p>
 <p align="left"> 
   <a href="https://github.com/Arkanoeth?tab=repositories&sort=stargazers#gh-light-mode-only">
