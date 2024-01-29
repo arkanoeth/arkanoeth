@@ -1,10 +1,9 @@
 # <h1>🦾 Matías Ferrer  </h1>                 
-*_Developer / Programmer_*
-
+Web3 Security Researcher
 ![github slide](https://user-images.githubusercontent.com/62271657/232490813-9677e87f-1170-4b28-b8cd-0c2c28a39384.jpg)
 
 
-<p align="left">I am the CEO and Co-Founder of ArkanzasTrade, a startup focused on Crypto education. I am actively involved in the fields of Crypto and Cybersecurity, and I am currently developing software solutions using Python and Solidity as the primary programming languages.
+<p align="left">I am a passionate professional by the cryptocurrency space, playing key roles in various crypto projects, particularly those related to real-world assets. As the CEO and co-founder of ArkanzasTrade, a startup focused on cryptocurrency education, I am committed to translating the complexities of the web3 world into a language that everyone can access. My goal is to make the web3 space safer, using my knowledge and experience for the benefit of all its users. I have a strong background in software development, with expertise in Solidity, Python, and Rust, enabling me to innovate and contribute to progress in the dynamic world of digital currencies.Above all, I have a profound passion for continuing to learn and grow every day.
 </p>
 <p align="left"> 
   <a href="https://github.com/Arkanoeth?tab=repositories&sort=stargazers#gh-light-mode-only">
